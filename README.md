@@ -1,6 +1,6 @@
-# ComputerVision-DeepLearning
-Progetto Magistrale 2021-2022 di ComputerVision&amp;DeepLearning
-DVS4DRIVERS
+# DVS4DRIVERS
+Progetto Magistrale 2021-2022 di Computer Vision & Deep Learning
+
 
 ## Obiettivo
 ## Strumenti utlizzati
