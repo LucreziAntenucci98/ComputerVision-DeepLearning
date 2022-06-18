@@ -13,8 +13,8 @@ per l'implementazioni delle rete neurale è stato utilizzato Google Colaboratory
 **- MobileNet V3** \
 **- Yolo v5**
 
-##Dataset Utilizzati
-**- MRL Eye Dataset**: si compone di un set di dati su larga scala con immagini di occhi umani.(http://mrl.cs.vsb.cz/eyedataset) \
+##Dataset Utilizzati \
+**- MRL Eye Dataset** : si compone di un set di dati su larga scala con immagini di occhi umani.(http://mrl.cs.vsb.cz/eyedataset) \
 **- Trim Dataset ** : https://serpapi.com/ \
 **- Test Dataset** : appositamente creato per il test \
 **- Dataset a partire da un video realizzato ad hoc** 
